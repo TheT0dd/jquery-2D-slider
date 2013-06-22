@@ -1,0 +1,31 @@
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	padding: 0; 
+	margin: 0;
+}
+
+
+#two-dim-slider {
+	width: 300px;
+	height: 100px;
+}
+
+ul.two-dim-list li {
+	border: 1px solid black;
+}
+
+ul.two-dim-list:nth-child(1) li {
+	background-color: red;
+}
+
+ul.two-dim-list:nth-child(2) li {
+	background-color: green;
+}
+
+ul.two-dim-list:nth-child(3) li {
+	background-color: blue;
+}
+
+
