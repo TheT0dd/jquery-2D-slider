@@ -68,7 +68,7 @@
 
 		// adjust slider dimensions for the first time
 		self._adjustSlider();
-		// adjust again on container element resize (custom event fired from artist.page.functions.js)
+		// adjust again on container element resize
 		// $(window).resize(_adjustSlider);	
 	};
 
